@@ -1,0 +1,35 @@
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.deps.json
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.runtimeconfig.json
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.pdb
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\bin\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.AssemblyReference.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.AssemblyInfoInputs.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.AssemblyInfo.cs
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.CopyComplete
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\refint\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.pdb
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.genruntimeconfig.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Data\obj\Debug\net8.0\ref\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.deps.json
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.runtimeconfig.json
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Insfractucture.pdb
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\bin\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.AssemblyReference.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.AssemblyInfoInputs.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.AssemblyInfo.cs
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.csproj.CopyComplete
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\refint\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.pdb
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.genruntimeconfig.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\ref\OrdersAPI.Insfractucture.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Data\obj\Debug\net8.0\OrdersAPI.Insfractucture.sourcelink.json

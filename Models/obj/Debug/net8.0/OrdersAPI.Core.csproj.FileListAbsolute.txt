@@ -1,0 +1,23 @@
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\bin\Debug\net8.0\OrdersAPI.Core.deps.json
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\bin\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\bin\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.AssemblyInfo.cs
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\refint\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\GrupoL\APIRestGrpuL\Models\obj\Debug\net8.0\ref\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\bin\Debug\net8.0\OrdersAPI.Core.deps.json
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\bin\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\bin\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.AssemblyInfo.cs
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\refint\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.pdb
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\ref\OrdersAPI.Core.dll
+C:\Users\Leonardo Costas\Desktop\Web Program C#\Models\obj\Debug\net8.0\OrdersAPI.Core.sourcelink.json
